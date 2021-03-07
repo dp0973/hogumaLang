@@ -1,6 +1,10 @@
 # hogumaLang
 
-> 저도 이거 뭔지 몰라요
+> 음~ 맛있다
+
+### 사용 방법
+
+터미널 -> hogumaCompiler.exe (파일 이름).hg 입력
 
 ### 스택
 
